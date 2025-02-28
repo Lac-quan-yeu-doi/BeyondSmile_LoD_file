@@ -10,3 +10,8 @@ This is used to extract au and emotion from images in "/image" and store it into
 ML implementation for LOGO (LOPO)
 ## ML implementLOGDO.ipynb
 ML implementation for LOGDO (LOPDO)
+## Requirement
+Please install the library bellow 
+```python
+pip install py-feat
+```
